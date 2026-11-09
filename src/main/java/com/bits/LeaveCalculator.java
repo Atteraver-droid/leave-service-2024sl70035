@@ -1,8 +1,9 @@
 
 package com.bits;
 
-public class LeaveCalculator {
-
+public class LeaveCalculator 
+{
+//Comment added :2024sl70035
     public int getLeaveBalance(String empId) {
         if (empId == null) {
             return 0;
